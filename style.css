@@ -362,11 +362,9 @@ section nav li a:active{color:hot pink;
 
 
 /*Footer*/
-footer{
-     width:400%;
+ footer{ width:350%;
        background:white;
-   
-      }
+}
 footer .footer_main{width:100%;
                     display:flex;
                     justify-content:space-around;
@@ -409,8 +407,6 @@ footer .end{align-items:center;
  footer .end span{color:green;
                margin-left:10px;
            }
-
-
 
 
 
