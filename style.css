@@ -362,7 +362,7 @@ section nav li a:active{color:hot pink;
 
 
 /*Footer*/
- footer{ width:350%;
+ footer{ width:100%;
        background:white;
 }
 footer .footer_main{width:100%;
